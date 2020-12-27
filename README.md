@@ -12,8 +12,7 @@
 | svg/logo.svg          | SVG to replace in extension                          |
 | img/logo-`<size>`.png | PNG to replace in extension for each `<size>`        |
 | manifest.json         | Web extension manifest file                          |
-| script.js             | JavaScript file loaded on all HTML files             |
-| style.css             | CSS file loaded on all HTML files                    |
+| css/style.css         | CSS file loaded on all HTML files                    |
 
 ## manifest.json
 
