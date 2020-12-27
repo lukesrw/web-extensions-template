@@ -2,17 +2,18 @@
 
 ## Contents
 
-| Name          | Purpose                                              |
-| ------------- | ---------------------------------------------------- |
-| /html/        | Various HTML files for pages, popups, sidebars, etc. |
-| /lib/         | Helpers written to make life easier                  |
-| background.js | JavaScript file for background browser tasks         |
-| developer.js  | JavaScript file for developer tools tasks            |
-| foreground.js | JavaScript file for window/tab tasks                 |
-| logo.svg      | SVG to show in various places                        |
-| manifest.json | Web extension manifest file                          |
-| script.js     | JavaScript file loaded on all HTML files             |
-| style.css     | CSS file loaded on all HTML files                    |
+| Name                  | Purpose                                              |
+| --------------------- | ---------------------------------------------------- |
+| /html/                | Various HTML files for pages, popups, sidebars, etc. |
+| /lib/                 | Helpers written to make life easier                  |
+| background.js         | JavaScript file for background browser tasks         |
+| developer.js          | JavaScript file for developer tools tasks            |
+| js/foreground.js      | JavaScript file for window/tab tasks                 |
+| svg/logo.svg          | SVG to replace in extension                          |
+| img/logo-`<size>`.png | PNG to replace in extension for each `<size>`        |
+| manifest.json         | Web extension manifest file                          |
+| script.js             | JavaScript file loaded on all HTML files             |
+| style.css             | CSS file loaded on all HTML files                    |
 
 ## manifest.json
 
