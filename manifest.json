@@ -18,8 +18,12 @@
     },
     "browser_specific_settings": {
         "gecko": {
-            "id": "web-extension-template@lukesrw"
+            "id": "web-extension-template@you"
         }
+    },
+    "developer": {
+        "name": "You",
+        "url": "https://www.google.com/"
     },
     "content_scripts": [
         {
